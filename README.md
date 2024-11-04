@@ -4,19 +4,6 @@ C-Maps is a progressive web application designed to track and monitor carbon foo
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Project Goals](#project-goals)
-- [Architecture](#architecture)
-- [Location Study](#location-study)
-- [CO2 Data Analysis](#co2-data-analysis)
-- [Application Development Roadmap](#application-development-roadmap)
-- [Supervising Lecturer](#supervising-lecturer)
-- [Team Members](#team-members)
-- [References](#references)
-
----
-
 ## Features
 - **Carbon Emission Calculator**: Calculate emissions from transportation, residential, and office sectors.
 - **Map Analysis with Google Earth Engine**: Visualize emission data on interactive maps.
