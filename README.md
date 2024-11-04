@@ -57,7 +57,7 @@ Emission data is visualized over time, showing that transportation is currently 
 - **Rendy Putra Maretika, S.Si., M.Sc.**
 
 ## Team Members
-- Anisa Cahyanira
+- Anisa Cahyarina
 - Laila Nur Azizah
 - Wulan Indahsari
 - Khosyi Nur Alya
