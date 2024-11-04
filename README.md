@@ -38,10 +38,10 @@ The project focuses on monitoring emissions in these areas of Yogyakarta, Indone
 - Kota Yogyakarta
 - Gunung Kidul
 
-## CO2 Data Analysis
+## CO Data Analysis
 ![image](https://github.com/user-attachments/assets/4105698c-6d5b-4247-97f5-4cb9ee4ee218)
 
-C-Maps categorizes CO and CO₂ emissions by source, including:
+C-Maps categorizes CO emissions by source, including:
 - **Transportation**
 - **Offices & Residential**
 ![image](https://github.com/user-attachments/assets/779f4908-360b-4235-aadd-1373542da0bf)
