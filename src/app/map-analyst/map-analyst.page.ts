@@ -17,23 +17,23 @@ export class MapAnalystPage implements OnInit {
   }
 
   getCurrentLocation() {
-    this.geolocation.getCurrentPosition().then((position) => {
-      this.currentLatitude = position.coords.latitude;
-      this.currentLongitude = position.coords.longitude;
+    // this.geolocation.getCurrentPosition().then((position) => {
+    //   this.currentLatitude = position.coords.latitude;
+    //   this.currentLongitude = position.coords.longitude;
 
-      console.log('Current Latitude:', this.currentLatitude);
-      console.log('Current Longitude:', this.currentLongitude);
+    //   // console.log('Current Latitude:', this.currentLatitude);
+    //   // console.log('Current Longitude:', this.currentLongitude);
 
-      // Tambahkan marker pada lokasi saat ini jika menggunakan peta
-      // L.marker([this.currentLatitude, this.currentLongitude])
-      //   .addTo(this.map)
-      //   .bindPopup('Your Current Location')
-      //   .openPopup();
+    //   // Tambahkan marker pada lokasi saat ini jika menggunakan peta
+    //   // L.marker([this.currentLatitude, this.currentLongitude])
+    //   //   .addTo(this.map)
+    //   //   .bindPopup('Your Current Location')
+    //   //   .openPopup();
 
-      // Lakukan apapun yang ingin Anda lakukan dengan koordinat pengguna di sini
-    }).catch((error) => {
-      console.error('Error getting location:', error);
-    });
+    //   // Lakukan apapun yang ingin Anda lakukan dengan koordinat pengguna di sini
+    // }).catch((error) => {
+    //   console.error('Error getting location:', error);
+    // });
   }
   toggleDropdown() {
     this.dropdownOpen = !this.dropdownOpen;
