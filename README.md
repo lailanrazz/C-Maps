@@ -39,12 +39,12 @@ The project focuses on monitoring emissions in these areas of Yogyakarta, Indone
 - Gunung Kidul
 
 ## CO2 Data Analysis
-![image](https://github.com/user-attachments/assets/18cd0d4a-8576-48d6-845d-96891c25e0d1)
+![image](https://github.com/user-attachments/assets/4105698c-6d5b-4247-97f5-4cb9ee4ee218)
 
 C-Maps categorizes CO and CO₂ emissions by source, including:
 - **Transportation**
 - **Offices & Residential**
-![image](https://github.com/user-attachments/assets/976972f4-3f28-4a2d-a3fe-e0dd4a1c8dc1)
+![image](https://github.com/user-attachments/assets/779f4908-360b-4235-aadd-1373542da0bf)
 
 Emission data is visualized over time, showing that transportation is currently the largest contributor to CO₂ levels.
 
