@@ -54,13 +54,13 @@ Emission data is visualized over time, showing that transportation is currently 
 - **Long-term**: API integration, hybrid app conversion, and advanced hosting.
 
 ## Supervising Lecturer
-- **Bimo Putra Marlistya, S.Si., M.Sc.**
+- **Rendy Putra Maretika, S.Si., M.Sc.**
 
 ## Team Members
 - Anisa Cahyanira
 - Laila Nur Azizah
 - Wulan Indahsari
-- Nonny Nur Alya
+- Khosyi Nur Alya
 
 ## References
 1. Global Carbon Atlas. (2022).
